@@ -1,0 +1,22 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [About BETYdb](about-betydb.md)
+* [BETYdb Tables](betydb-tables.md)
+* [Installing BETYdb](installing-betydb/README.md)
+  * [installing-betydb-web-application](installing-betydb/installing-betydb-web-application.md)
+  * [Dependencies: Setting up a Server](installing-betydb/dependencies-setting-up-a-server.md)
+  * [Installing Postgres](installing-betydb/installing-postgres.md)
+  * [Installing the BETYdb Rails Application](installing-betydb/installing-the-betydb-rails-application.md)
+* [BETYdb System Administration](betydb-system-administration/README.md)
+  * [Updating BETYdb When New Versions are Released](betydb-system-administration/updating-betydb-when-new-versions-are-released.md)
+  * [Distributed BETYdb](betydb-system-administration/distributed-betydb.md)
+* [BETYdb Development](betydb-development/README.md)
+  * [Ruby on Rails Application Overview](betydb-development/ruby-on-rails-application-overview.md)
+  * [Automated Tests](betydb-development/automated-tests.md)
+  * [Code Style](betydb-development/code-style.md)
+  * [Complex Joins in the Web Interface](betydb-development/complex-joins-in-the-web-interface.md)
+  * [Database Constraints](betydb-development/database-constraints.md)
+  * [Modifying the BETY schema](betydb-development/modifying-the-bety-schema.md)
+  * [Issuing a New Release](betydb-development/issuing-a-new-release.md)
+
